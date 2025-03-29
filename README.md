@@ -1,6 +1,6 @@
 ![Description of j.png](j.png)
 <h1 align="center">Hi 👋, I'm Md Juyel Rana</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate MERN-stack developer from Bangladesh</h3>
 
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXE9gqS0uUrd7GTDicD2nV_VZt63LibxIX8Q&s" >
 
