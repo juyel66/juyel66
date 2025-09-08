@@ -1,4 +1,4 @@
-![Description of MERN1.png](MERN1.png)
+![Description of MERN2.png](MERN2.png)
 <div align="center">
 
 # Hi 👋, I'm Md Juyel Rana
