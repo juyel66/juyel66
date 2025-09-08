@@ -1,6 +1,8 @@
 ![Description of j.png](j.png)
-<h1 align="center">Hi 👋, I'm Md Juyel Rana</h1>
-<h3 align="center">A passionate MERN Developer from Bangladesh</h3>
+<div align="center">
+
+# Hi 👋, I'm Md Juyel Rana
+### A passionate MERN Developer from Bangladesh
 
 ---
 
@@ -58,15 +60,15 @@
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
 
----
+<div align="center">
 
-- 🔭 I’m currently working on [Microworker Project](https://microworker-bd.netlify.app/)
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/juyel66)
-- 💬 Ask me about: **JavaScript, React.js**
-- 📫 How to reach me: *mdjuyelrana.com.bd1@gmail.com*
-- 📄 [Know about my experiences](https://drive.google.com/file/d/1dvN4cJwLwY1rrVUjmozqV1KTs3u2Y45F/view?usp=sharing)
+🔭 I’m currently working on [Microworker Project](https://microworker-bd.netlify.app/)  
+👨‍💻 All of my projects are available on [GitHub](https://github.com/juyel66)  
+💬 Ask me about: **JavaScript, React.js**  
+📫 How to reach me: *mdjuyelrana.com.bd1@gmail.com*  
+📄 [Know about my experiences](https://drive.google.com/file/d/1dvN4cJwLwY1rrVUjmozqV1KTs3u2Y45F/view?usp=sharing)  
 
----
+</div>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=juyel66&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -80,3 +82,5 @@
 [![](https://visitcount.itsvg.in/api?id=juyel66&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+</div>
